@@ -11,5 +11,8 @@
     "revoke": "extension-scripts revoke",
     "deploy": "extension-scripts deploy",
     "build": "extension-scripts build"
+  },
+  "devDependencies": {
+    "@smartsheet-bridge/extension-scripts": "^0.1.2"
   }
 }
